@@ -8,4 +8,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <GlobalStyle />
     <App />
   </React.StrictMode>
-)
+);
